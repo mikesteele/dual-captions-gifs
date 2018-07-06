@@ -1,11 +1,9 @@
 # dual-captions-gifs
 GIF screenshots of mikesteele/dual-captions 
-<br/>
-<img src="https://raw.githubusercontent.com/mikesteele/dual-captions-gifs/master/netflix.png" width="50%"><img src="https://raw.githubusercontent.com/mikesteele/dual-captions-gifs/master/amazon.png" width="50%">
 
-| YouTube |
-|---------|
-|<img src="https://raw.githubusercontent.com/mikesteele/dual-captions-gifs/master/netflix.png" width="50%">|
+| YouTube  |
+|:--------:|
+| <img src="https://raw.githubusercontent.com/mikesteele/dual-captions-gifs/master/youtube.png"> |
 | Limitations: Automatic subtitles aren't supported. |
 
 | Netflix       | Amazon        |
